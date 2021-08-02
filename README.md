@@ -16,7 +16,7 @@ Clone the project and download the pods for the project to work properly.
 - Include Tabs 
 - Add Filters.
 - Add a drop-down list to pick between seasons and change data accordingly.
-- Save data locally of saved favorite series/movies.
+- Save data locally of saved favorite series/movies (CoreData used).
 - Reload data with UIRefreshControl.
 ![Screen Shot 2021-08-01 at 22 50 27](https://user-images.githubusercontent.com/55717961/127802039-2993582c-ee1d-4400-8df4-0c30bc54fb7e.png)
 - Button for share with friends series/movies. 
